@@ -247,6 +247,7 @@ h2 em { color: var(--purple-700); font-style: normal; }
   .hero-bottom { min-height: 51px; justify-content: center; gap: 8px; font-size: 7px; letter-spacing: .8px; }
   .hero-bottom i { width: 3px; height: 3px; }
   .section-pad { padding: 70px 0; }
+  .intro-section, .products-section { background-color: var(--forest-900); background-position: center; background-size: 100% auto; }
   .intro-layout { grid-template-columns: 1fr; gap: 24px; }
   .intro-copy h2, .section-heading h2 { font-size: 34px; }
   .intro-stats { grid-column: auto; }
